@@ -3,7 +3,7 @@ email send using voice assistant
 
 anyone can send the mail to another person using this code.
 
-# pyrhon packages needed
+# python packages needed
 
 1. pyttsx3
 2. sppech_recognition
